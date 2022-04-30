@@ -21,7 +21,6 @@ pattern of MVVM.
   - **Room**
 - **Kotlin Coroutines**  
 - **Retrofit**
-- **OkHttp**
 - **Gson**
 - **Glide**
 - **Dagger Hilt**
